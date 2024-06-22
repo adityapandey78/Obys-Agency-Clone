@@ -175,7 +175,7 @@ function page4Animation(){
         });
         document
         .querySelector("#about-obys").innerHTML=texts;
-        console.log(texts);
+        //console.log(texts);
         tl2.from("#about-obys span",{
             bottom: 200, // Adjust this value if needed to make letters come from below
             opacity: 0,
