@@ -2,26 +2,26 @@
 
 @font-face {
     font-family: "Plain Light";
-    src: url(./fonts/plain-regular-webfont.ttf);
+    src: url(/Obys-Agency-Clone/Fonts/plain-light-webfont.ttf);
 }
 
 @font-face {
-    font-family: "Plain Light";
-    src: url(./fonts/plain-light-webfont.ttf);
-}
-
-@font-face {
-    font-family: "silk serif";
-    src: url(./fonts/silkserif-regularitalic-webfont.ttf);
+    font-family: "Plain Regular";
+    src: url(/Obys-Agency-Clone/Fonts/plain-regular-webfont.ttf);
 }
 
 @font-face {
     font-family: "silk serif";
-    src: url(./fonts/silkserif-lightitalic-webfont.ttf);
+    src: url(/Obys-Agency-Clone/Fonts/silkserif-lightitalic-webfont.ttf);
+}
+
+@font-face {
+    font-family: "silk serif";
+    src: url(/Obys-Agency-Clone/Fonts/silkserif-regularitalic-webfont.ttf);
 }
 @font-face {
     font-family: "PP Woodland";
-    src: url(/Fonts/ppwoodland-bold.ttf);
+    src: url(/Obys-Agency-Clone/Fonts/ppwoodland-bold.ttf);
 }
 *{
     margin: 0;
