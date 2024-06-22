@@ -20,7 +20,7 @@
     src: url(./Fonts/silkserif-regularitalic-webfont.ttf);
 }
 @font-face {
-    font-family: "PP woodland";
+    font-family: "PP Woodland";
     src: url(/Obys-Agency-Clone/Fonts/ppwoodland-bold.ttf);
 }
 *{
@@ -606,14 +606,14 @@ position: relative;
 #page4-content #intro h2{
    font-size: 2.2vw;
    width: 50%;
-   font-family: "PP woodland";
+   font-family: "PP Woodland";
    color: #fff;
 }
 #intro {
     margin-bottom: 5vw;
 }
 #intro h2 span{
-    font-family: "PP woodland";
+    font-family: "PP Woodland";
 }
 #page4-flex{
     display: -webkit-box;
@@ -1305,7 +1305,7 @@ position: relative;
     #page4-content #intro h2{
        font-size: 4.8vw;
        width: 100%;
-       font-family: "PP woodland";
+       font-family: "PP Woodland";
        color: #fff;
        /* background-color: red; */
     }
@@ -1313,7 +1313,7 @@ position: relative;
         margin-bottom: 5vw;
     }
     #intro h2 span{
-        font-family: "PP woodland";
+        font-family: "PP Woodland";
         
     }
     #page4-flex{
