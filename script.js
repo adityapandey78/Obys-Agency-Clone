@@ -301,7 +301,6 @@ function imageAnimation(){
 }
   
 
-
 loadingAnimantion();
 locomotiveAnimation();
 flagAnimation();
@@ -309,3 +308,4 @@ crsrAnimation();
 page4Animation()
 sheryAnimation();
 footerAnimation();
+

@@ -232,7 +232,7 @@ text-align: right;
     gap: 3vw ;
 }
 #nav-part2 h4{
-    font-size: 0.8vw;
+    font-size: 1vw;
     font-weight: 900;
     font-family: "plain";
 }
@@ -505,7 +505,7 @@ height: 30%;
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #fff;
+    background-color: #ffffff;       
     
     display: -webkit-box;
     
@@ -909,7 +909,7 @@ position: relative;
         gap: 3vw ;
     }
     #nav-part2 h4{
-        font-size: 0.8vw;
+        font-size: 1.5vw;
         font-weight: 900;
         font-family: "plain";
         display: none;
@@ -1193,7 +1193,7 @@ position: relative;
         position: absolute;
         top: 0;
         left: 0;
-        background-color: #fff;
+        background-color: #ffa63d;
         
         display: -webkit-box;
         
