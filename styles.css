@@ -320,6 +320,7 @@ text-align: right;
     -o-object-fit: cover;
        object-fit: cover;
     opacity: 0;
+    cursor: none;
 }
 #video-cursor{
     background-color: #ffa63d;
